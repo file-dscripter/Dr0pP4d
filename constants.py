@@ -4,7 +4,7 @@ WIDTH = 600
 HEIGHT = 400
 FPS = 60
 WINDOW_COLOUR = (0,0,0)
-TITLE = "Pygame Assessment"
+TITLE = "Dr0pP4d"
 
 # player
 PLAYER_STEP_SIZE = 5

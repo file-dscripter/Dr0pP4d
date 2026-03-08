@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import pygame
 import random
 
@@ -496,4 +497,6 @@ while running:
     clock.tick(FPS)
 
 
+=======
+>>>>>>> f35c8002850b208821b8c010be91817d6594d5e5
 

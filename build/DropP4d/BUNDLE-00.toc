@@ -1,0 +1,3 @@
+([('DropP4d',
+   '/Users/dennisvlachopoulos/Programming/Dr0pP4d/dist/DropP4d',
+   'EXECUTABLE')],)

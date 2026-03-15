@@ -1,5 +1,5 @@
 ('/Users/dennisvlachopoulos/Programming/Dr0pP4d/executable/dist/main',
- True,
+ False,
  False,
  False,
  None,
@@ -439,8 +439,8 @@
  [],
  False,
  False,
- 1773608606,
- [('run',
-   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/PyInstaller/bootloader/Darwin-64bit/run',
+ 1773608851,
+ [('runw',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/PyInstaller/bootloader/Darwin-64bit/runw',
    'EXECUTABLE')],
  '/Library/Frameworks/Python.framework/Versions/3.11/Python')
